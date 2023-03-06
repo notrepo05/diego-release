@@ -69,8 +69,8 @@ require (
 	github.com/kr/pty v1.1.8
 	github.com/lib/pq v1.10.3
 	github.com/mitchellh/hashstructure v1.1.0
-	github.com/nats-io/nats-server/v2 v2.9.0
-	github.com/nats-io/nats.go v1.16.1-0.20220906180156-a1017eec10b0
+	github.com/nats-io/nats-server/v2 v2.9.15
+	github.com/nats-io/nats.go v1.24.0
 	github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.27.1
@@ -86,11 +86,11 @@ require (
 	github.com/tedsuo/rata v1.0.0
 	github.com/vito/go-sse v1.0.0
 	github.com/zorkian/go-datadog-api v2.30.0+incompatible
-	golang.org/x/crypto v0.1.0
+	golang.org/x/crypto v0.6.0
 	golang.org/x/net v0.8.0
 	golang.org/x/oauth2 v0.0.0-20220622183110-fd043fe589d2
 	golang.org/x/sys v0.6.0
-	golang.org/x/time v0.0.0-20220722155302-e5dcc9cfc0b9
+	golang.org/x/time v0.3.0
 	google.golang.org/grpc v1.53.0
 	gopkg.in/ldap.v2 v2.5.1
 	gopkg.in/yaml.v2 v2.4.0
@@ -133,7 +133,7 @@ require (
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
-	github.com/klauspost/compress v1.15.15 // indirect
+	github.com/klauspost/compress v1.16.0 // indirect
 	github.com/kr/fs v0.1.0 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
